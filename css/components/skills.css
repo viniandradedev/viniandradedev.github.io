@@ -18,13 +18,14 @@
     justify-content: space-evenly;
     gap: 2vw;
     margin-top: 3rem;
+    margin-bottom: 1rem;
 }
 
 .skills .skills__content .languages ul li {
     height: 10rem;
     width: 10rem;
     transition: all 0.3s ease;
-    margin-bottom: 1rem;
+    
 }
 
 .skills .skills__content .languages ul li img {
